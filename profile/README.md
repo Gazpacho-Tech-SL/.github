@@ -25,11 +25,6 @@ Our organization operates like a real company. Here's how we run:
   - Submit pull requests for code reviews.
 - **Tech Stack:** Leveraging **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Java**. **Node** and more.
 
-### 🔍 Featured Projects
-- **[Project Name 1]**: A microservice for user authentication and authorization.
-- **[Project Name 2]**: A recipe-sharing platform built with a scalable backend.
-- **[Project Name 3]**: A CI/CD pipeline demo using GitHub Actions.
-
 ### 🤝 Join Us
 Interested in learning and growing with us? Here’s how you can contribute:
 1. Fork a repository and clone it to your local machine.
