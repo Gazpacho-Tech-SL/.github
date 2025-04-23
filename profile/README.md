@@ -8,13 +8,6 @@ We're a learning-driven organization dedicated to simulating real-world engineer
 - **Collaborate Effectively:** Practice team workflows using agile methodologies, code reviews, and CI/CD pipelines.
 - **Explore Technologies:** Dive deep into DevOps, cloud platforms, microservices, and more.
 
-### 🛠️ What We Do
-We specialize in:
-- Building **microservices** to solve real-world problems.
-- Designing scalable, cloud-native applications.
-- Exploring **DevOps practices**, including CI/CD, containerization, and orchestration.
-- Practicing infrastructure as code with tools like **Terraform** and **Helm**.
-
 ### 📚 How It Works
 Our organization operates like a real company. Here's how we run:
 - **Project Repositories:** Each project has its own repository, README, and documentation.
@@ -26,7 +19,8 @@ Our organization operates like a real company. Here's how we run:
 - **Tech Stack:** Leveraging **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Java**. **Node** and more.
 
 ### 🤝 Join Us
-Interested in learning and growing with us? Here’s how you can contribute:
+We have a couple of private repos, if you have an idea you want to build or join: send an email to [raphaeleze@gmail.com](mailto:raphaeleze@gmail.com)
+Here’s how you can contribute to public repos:
 1. Fork a repository and clone it to your local machine.
 2. Check the repository's README for setup instructions.
 3. Pick an issue or suggest improvements.
