@@ -31,6 +31,3 @@ Here’s how you can contribute to public repos:
 - **Email:** [raphaeleze@gmail.com](mailto:raphaeleze@gmail.com)
 - **GitHub:** [@raphaeleze](https://github.com/raphaeleze)
 - **LinkedIn:** [Eze Raphael Echimina](https://www.linkedin.com/in/eze-raphael-echimina-a99177235/)
-
----
-We’re here to learn, build, and grow together. Let's make amazing things happen!
