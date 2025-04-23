@@ -20,6 +20,7 @@ Our organization operates like a real company. Here's how we run:
 
 ### 🤝 Join Us
 We have a couple of private repos, if you have an idea you want to build or join: send an email to [raphaeleze@gmail.com](mailto:raphaeleze@gmail.com)
+
 Here’s how you can contribute to public repos:
 1. Fork a repository and clone it to your local machine.
 2. Check the repository's README for setup instructions.
