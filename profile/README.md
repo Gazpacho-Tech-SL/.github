@@ -3,13 +3,7 @@
 ### 🌟 About Us
 We're a learning-driven organization dedicated to simulating real-world engineering environments. Our projects are designed to provide hands-on experience with modern tools, practices, and workflows, mimicking how professional organizations operate.
 
-### 🚀 Our Mission
-- **Empower Learning:** Provide opportunities to work on projects as if they were in a production environment.
-- **Collaborate Effectively:** Practice team workflows using agile methodologies, code reviews, and CI/CD pipelines.
-- **Explore Technologies:** Dive deep into DevOps, cloud platforms, microservices, and more.
-
 ### 📚 How It Works
-Our organization operates like a real company. Here's how we run:
 - **Project Repositories:** Each project has its own repository, README, and documentation.
 - **Teams:** Contributors are grouped into teams to work on specific features.
 - **Workflow:**
